@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ProgrammingLogic/Lab1/Lab2/Lab2.csproj",
+      "projectUniqueName": "/workspaces/ProgrammingLogic/Lab2/Lab2.csproj",
       "projectName": "Lab2",
-      "projectPath": "/workspaces/ProgrammingLogic/Lab1/Lab2/Lab2.csproj",
+      "projectPath": "/workspaces/ProgrammingLogic/Lab2/Lab2.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ProgrammingLogic/Lab1/Lab2/obj/",
+      "outputPath": "/workspaces/ProgrammingLogic/Lab2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
